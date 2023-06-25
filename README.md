@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Ryan Ciusjmak
-♟ 👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas
-♟ 💻 Software Developer
+♟ 👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas <br>
+♟ 💻 Software Developer <br>
 ♟ https://linktr.ee/RyanCiusjmak
 <br>
 
