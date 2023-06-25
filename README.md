@@ -1,4 +1,6 @@
 ### Olá! Eu sou o Ryan Ciusjmak
+♟ 👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas
+♟ 💻 Software Developer
 
 <div align="center">
   <a href="https://github.com/ryanciusjmak">
