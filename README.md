@@ -33,6 +33,10 @@
   </tr>
 </table>
   
+
+![Snake animation](https://github.com/ryanciusjmak/ryanciusjmak/blob/output/github-contribution-grid-snake.svg)
+
+
   #
 
 ### Conecte-se comigo!
