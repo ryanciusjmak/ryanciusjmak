@@ -32,9 +32,6 @@
     <td><img width="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2VlY2IzNThhNWEzNDkyYmEzYTAxYWMwOTNmYjEwNzk1NGVjMTRjMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/yALcFbrKshfoY/giphy.gif"></td>
   </tr>
 </table>
-  
-
-![Snake animation](https://github.com/ryanciusjmak/ryanciusjmak/blob/output/github-contribution-grid-snake.svg)
 
 
   #
