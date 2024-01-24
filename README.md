@@ -25,7 +25,7 @@
   <tr>
     <td>
     <p> Tenho 1 ano de experiência em solução de problemas de software para computadores.</p>
-    <p>Minhas especialidades incluem: HTML, CSS, JavaScript, Tailwind CSS e SASS; atualmente estou focado em aprimorar minhas habilidades básicas em Angular.</p>
+    <p>Minhas especialidades incluem: HTML, CSS, JavaScript, Tailwind CSS e SASS; atualmente estou focado em aprimorar minhas habilidades básicas em Angular, Php e Laravel.</p>
     <p>Além disso, possuo conhecimento em outras ferramentas como Git e GitHub.</p>
     <p>Atualmente estou cursando um diploma em Análise e Desenvolvimento de Sistemas, com previsão de conclusão em 2025.</p>
     <blockquote>"Os programadores de amanhã são os magos do futuro." - Gabe Newell</blockquote>
