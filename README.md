@@ -1,4 +1,4 @@
-## Hello World! My name is Ryan Ciusjmak and I'm a Front-end developer!
+## Hello World! My name is Ryan Ciusjmak and I'm a Full Stack developer!
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=483D8B&height=120&section=header"/>
 
 
