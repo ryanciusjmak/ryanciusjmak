@@ -30,8 +30,8 @@
 <table>
   <tr>
     <td>
-    <p> Tenho 1 ano de experiência em solução de problemas de software para computadores.</p>
-    <p>Minhas especialidades incluem: HTML, CSS, JavaScript, Tailwind CSS, React js, Php e Laravel.</p>
+    <p> Tenho 2 anos de experiência em solução de problemas de software para computadores.</p>
+    <p>Minhas especialidades incluem: HTML, CSS, JavaScript, Tailwind CSS, React js, Php, Laravel e MySql.</p>
     <p>Além disso, possuo conhecimento em outras ferramentas como Git e GitHub.</p>
     <p>Atualmente estou cursando um diploma em Análise e Desenvolvimento de Sistemas, com previsão de conclusão em 2025.</p>
     <blockquote>"Os programadores de amanhã são os magos do futuro." - Gabe Newell</blockquote>
